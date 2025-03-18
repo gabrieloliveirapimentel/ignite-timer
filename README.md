@@ -1,4 +1,10 @@
-# Ignite Timer
+<h3 align="center"> 
+	Ignite Timer
+</h3>
+
+![cover](cover.png?style=flat)
+
+## Descrição 
 Este é um projeto de um timer desenvolvido durante o curso Ignite da Rocketseat.
 
 ## Pré-requisitos
